@@ -4,10 +4,9 @@ Comparing Flux.1 Dev LoRAs with the seed and a simple prompt.
 
 The prompt is always extended with the LorA's name and CivitAI tags.
 
-- Prompt: "cute geek girl stands next to a cute cat"
-- Seed: 1005129878923579
-- LoRAs:
-
+Prompt: "cute geek girl stands next to a cute cat"
+Seed: 1005129878923579
+LoRAs:
 - 3d__style
 - abstract_art_iii
 - aesthetic_amateur_photo_v3
