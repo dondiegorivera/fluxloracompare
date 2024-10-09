@@ -1,0 +1,206 @@
+# fluxloracompare
+
+Comparing Flux.1 Dev LoRAs with the seed and a simple prompt. The prompt is always extended with the LorA's name and CivitAI tags.
+
+Prompt: "cute geek girl stands next to a cute cat"
+Seed: 1005129878923579
+
+LoRAs:
+
+3d__style.safetensors
+abstract_art_iii.safetensors
+aesthetic_amateur_photo_v3.safetensors
+aidmagta6--v0.1.safetensors
+aidmatextimprover--v0.3.safetensors
+amateurphotov2.safetensors
+amateurphoto-version5-gm.safetensors
+ancient.safetensors
+ancient_shadows_of_the_lens-dev.safetensors
+animescreencap__v1_2000.safetensors
+araminta_k__koda.safetensors
+art_nouveau__lora_v1.safetensors
+artnouveau.safetensors
+azuresketchillustration.safetensors
+beatrix_potter.safetensors
+beavisnbutthead_000001500.safetensors
+blue_future.safetensors
+blue_mk4_angel__01.safetensors
+body_horror.safetensors
+bodycam_nocaptions_v1_01.safetensors
+boreal--dev-lora-v04_1000_steps.safetensors
+brand_marks_-_logo_icon_symbol.safetensors
+british_comic_art.safetensors
+brutalism.safetensors
+bw_vintage_cartoon_r1.safetensors
+c0ckr0ach.safetensors
+c4r700n_prod_v1.2.safetensors
+c64_2.safetensors
+cave_painting_style_v1.0.safetensors
+cctv.mania.safetensors
+characterdesign-v2.safetensors
+chiaroscuro lighting style v1.safetensors
+cinematic_lego.safetensors
+cinematic_style_2_().safetensors
+claude_monet_1-dev.safetensors
+clay_vorona_v1_strong.safetensors
+claymation.safetensors
+corporateflatvectorstyle.safetensors
+cursed_lora_.safetensors
+cute_3d_cartoon_.safetensors
+cute_japanese_poster.safetensors
+cutelogomaker.safetensors
+david_martinez_.safetensors
+decopulse .safetensors
+detailed skin pore style v2.safetensors
+disneystyle.safetensors
+disneystylesmallerv2.safetensors
+dr34ms.safetensors
+dystopianv1c.safetensors
+eldritch_comics_for__1.1.safetensors
+eldritch_impressionism_for_.safetensors
+eldritch_painting__1.2.safetensors
+eldritch_parchment_art_for__1.0.safetensors
+embroidered_quilting__v2.safetensors
+envyfantasyartdeco01.safetensors
+envyvintagespeedpaint01.safetensors
+escher.safetensors
+facial expression style v2.safetensors
+filmfotos.safetensors
+.1d_-_studio_harcourt_black_and_white_portrait_photography.safetensors
+.darius-v1.1.safetensors
+_-_renaissance_art_style.safetensors
+_events_caricature_crctfl_style.safetensors
+_midjourney_anime.safetensors
+_photography.safetensors
+_ranger_rabbit_elinor_wonders_why.safetensors
+_realism_lora.safetensors
+_s_voxel.safetensors
+_tarot_v1_lora.safetensors
+_vividizer.safetensors
+-cryptocollege-cr2cl.safetensors
+-lora-origami.safetensors
+mythp0rtr4itstyle.safetensors
+-oilpainting1.3.safetensors
+franklin_booth_style__v1.safetensors
+frazetta__v2.safetensors
+garbage_pail_kids_.safetensors
+ghost_in_the_shell_.safetensors
+gustavedore_style_000005500.safetensors
+hardcorestreet.safetensors
+herbst_photo_35mm v2.safetensors
+hilda_style_characters__concepts.safetensors
+impressionism.safetensors
+incase_new_.safetensors
+iphonephoto2.safetensors
+iphone-photo-v1-final.safetensors
+j_cartoon__bf16.safetensors
+j_clay__rank16_bf16.safetensors
+jean-michel_basquiat_style.safetensors
+jj.safetensors
+kate_greenaway.safetensors
+kikilapetitesorciere_style__v1.safetensors
+lego__gl3go1xy_lora.safetensors
+lego_lora.safetensors
+lego1.safetensors
+logo_abaii_v2.safetensors
+logomaker1024.safetensors
+lora (1).safetensors
+lora._trained.safetensors
+lora.safetensors
+luminous_shadowscape.safetensors
+machinart-_lora-v1.0.safetensors
+manga and anime cartoon style v1.safetensors
+metropolis_movie_style_.safetensors
+mgwr_cine.safetensors
+midjourney_whisper__lora_v01.safetensors
+midjourney_whisper_minimal.safetensors
+miniature_buildings.safetensors
+minimalist_line_style__train_replicate.safetensors
+mood_photography.safetensors
+moody_kodachrome_lora_v01.safetensors
+more_details.safetensors
+mosaic.safetensors
+movieposter03-02_ce__128ait.safetensors
+n30nfilm.safetensors
+neon_cyberpunk_impressionism_.safetensors
+neon_cyberpunk_splash_art_.safetensors
+niji_zero.safetensors
+ningraphix.safetensors
+nttw-v4-lite-8-16-e9-10.safetensors
+nypogodi-wolf.safetensors
+odkzsb_0.2.safetensors
+old space station -  lora - trigger is ossttn.safetensors
+old_comicbook_.safetensors
+old_timey_v4.safetensors
+olympusd450_lora.safetensors
+oscar-claude-monet-1.safetensors
+paper_mario_style_f1d.safetensors
+perfection style v1.safetensors
+phlux.safetensors
+pinkiecolorfulpainting.safetensors
+pinkieglimmersweet.safetensors
+pinkietexturedpainting.safetensors
+pinup_hud_p1nup_styl_.safetensors
+pixel_art_.safetensors
+pixel_art_style_v1.0.safetensors
+pixel-art--v2.safetensors
+pop_art_pusher.safetensors
+pop_art_style_.safetensors
+ps1_style__v1.safetensors
+pscllite.safetensors
+px-hard-v1.safetensors
+px-hard-v2.safetensors
+pytorch_lora_weights.safetensors
+retropop01-00_ce__128ait.safetensors
+rmada - enhance - beta2.safetensors
+rogi.safetensors
+rose petals _epoch_2.safetensors
+ru883r_aiwarper_v1.0.safetensors
+rubber_hose_style_for_.safetensors
+scg-anatomy-female-v2.safetensors
+scifi_environment_concept_art_.safetensors
+scooby-doo_1999_style_.safetensors
+silhuflowart2.safetensors
+simon_stålenhag_.safetensors
+simpsons-lora--learning-rate-2.safetensors
+soviet__2.safetensors
+stainedglass.safetensors
+static_shock.safetensors
+storecctv_v1_01.safetensors
+studioghibli__v1.safetensors
+style_of_art_frahm__210.safetensors
+style_of_frank_miller__236.safetensors
+style_of_gerry_anderson__315.safetensors
+style_of_gil_elvgren__149.safetensors
+style_of_john_kenn_mortensen__219.safetensors
+style_of_kestutis_kasparavicius__159.safetensors
+style_of_miles_aldridge__154.safetensors
+style_of_rembrandt__135.safetensors
+surreal_photo.safetensors
+surrealistportrait.safetensors
+sxz-alex-ross-.safetensors
+sxz-hades-v1-.safetensors
+sxz-jim-lee-.safetensors
+sxz-valorant-v3-.safetensors
+szomszedok.safetensors
+technicolor style v1.safetensors
+tom_lovell-.safetensors
+torikun__joycaption.safetensors
+vaszary.safetensors
+vhs_.safetensors
+victoriangothic_v40_rank64_bf16-step00720.safetensors
+vintage_anime_.safetensors
+vintage_photo_.safetensors
+vintage_sci-fi_movie.safetensors
+vintagedrawing01-01_ce__128ait.safetensors
+vintage-poster.safetensors
+weird_tales_.safetensors
+wesanderson.safetensors
+wimmelbilder.safetensors
+wiz-penandinkdrawings.safetensors
+wiz-vintagecomic-pulp-1d.safetensors
+wow_details.safetensors
+wraith_bw_.safetensors
+style of fernando botero.safetensors
+style of michelangelo buonarroti .safetensors
+style of vincent van gogh.safetensors
