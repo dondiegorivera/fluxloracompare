@@ -6,6 +6,7 @@ The prompt is always extended with the LorA's name and CivitAI tags.
 
 Prompt: "cute geek girl stands next to a cute cat"
 Seed: 1005129878923579
+
 LoRAs:
 - 3d__style
 - abstract_art_iii
